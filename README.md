@@ -33,7 +33,7 @@ The dataset is sourced from Kaggle – Bank Loan Prediction Dataset.
    -Reveals the impact of credit history and income on loan decisions
    -Supports risk management by highlighting potentially high-risk segments
    -Helps optimize lending policies and improve financial inclusion strategies
-   -Provides a reusable template for loan analysis in different markets
+   -Provides a reusable template for loan analysis in different markets.
 
 ### 6. Screenshot
 
